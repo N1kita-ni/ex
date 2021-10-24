@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         view1.backgroundColour()
         label1.cornerLayer()
         label1.backgroundColour()
-        
+        print("Hello")
     }
 
 
